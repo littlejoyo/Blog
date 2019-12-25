@@ -8,8 +8,6 @@
 
 - [计算机网络](https://github.com/littlejoyo/Blog/projects/4)
 
-- [Mysql数据库](https://github.com/littlejoyo/Blog/projects/2)
-
 - [Go语言](https://github.com/littlejoyo/Blog/projects/3)
 
 - [Java语言](https://github.com/littlejoyo/Blog/projects/6)
